@@ -18,9 +18,9 @@ let isloggedin = true
 //symbol  for unique
 
 //object 
-console.log(typeof "hitesh")
+console.log(typeof "hitesh");
 
-console.log(tyoeof undefined); //undefined
-console.log(tyoeof null);// object
+console.log(typeof undefined); //undefined
+console.log(typeof null);// object
 
 
